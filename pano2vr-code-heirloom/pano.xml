@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.15" apprev="18116" start="node4">
+  <panorama id="node4">
+    <input height="2490" levelbiashidpi="1.000" leveltilesize="500" width="2490" levelingroll="0" overlap="1" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2490" width="2490" preload="0" predecode="0"/>
+      <level height="1245" width="1245" preload="0" predecode="0"/>
+      <level height="622" width="622" preload="0" predecode="0"/>
+      <level height="311" width="311" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="189.776">
+      <start projection="4" tilt="-4.00398" pan="1.43674" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" heading="189.776" title="Heirloom Art Co." nodeid="node4" latitude="40.29896333" customnodeid="" tags="Desktop" description="" source="" info="" author="" datetime="10/22/22 1:15 PM" comment="" longitude="-111.65851057"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" width="180" textcolor="0x000000" background="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot title="Heirloom Art Co." skinid="ht_node" tilt="-3.54" description="" pan="358.875" url="{node5}" id="Point01" target="$fwd" distance="3.03536"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" zoomafterinfov="90" type="crossdissolve" blendcolor="0x000000" zoomfov="20" softedge="0" zoomin="0"/>
+    <autorotate delay="5.00" noderandom="1" enabled="1" nodedelay="0.00" nodefilter="" useanimation="0" speed="0.050" startloaded="0" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" contextvr="1" simulatemass="1" dblclickfullscreen="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" sensitivity="8" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="2490" levelbiashidpi="1.000" leveltilesize="500" width="2490" levelingroll="0" overlap="1" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2490" width="2490" preload="0" predecode="0"/>
+      <level height="1245" width="1245" preload="0" predecode="0"/>
+      <level height="622" width="622" preload="0" predecode="0"/>
+      <level height="311" width="311" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="192.907">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" heading="192.907" title="Heirloom Art Co." nodeid="node5" latitude="40.29893673" customnodeid="" tags="Desktop" description="" source="" info="" author="" datetime="10/22/22 1:17 PM" comment="" longitude="-111.65851861"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" width="180" textcolor="0x000000" background="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot title="Heirloom Art Co." skinid="ht_node" tilt="0" description="" pan="179.926" url="{node4}" id="Point01" target="$fwd" distance="3.03536"/>
+      <hotspot title="Heirloom Art Co." skinid="ht_node" tilt="-2.41" description="" pan="352.87" url="{node1}" id="Point02" target="$fwd" distance="5.95847"/>
+      <hotspot title="Dutch Storytiles" skinid="ht_image" tilt="-31.89" description="" pan="-245.87" url="images/popup tiles.png" id="Point03" target=""/>
+      <hotspot title="Scary Bingo" skinid="ht_image" tilt="-9.66" description="" pan="-48.86" url="images/popup bingo.png" id="Point04" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" zoomafterinfov="90" type="crossdissolve" blendcolor="0x000000" zoomfov="20" softedge="0" zoomin="0"/>
+    <autorotate delay="5.00" noderandom="1" enabled="1" nodedelay="0.00" nodefilter="" useanimation="0" speed="0.050" startloaded="0" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" contextvr="1" simulatemass="1" dblclickfullscreen="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" sensitivity="8" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="2486" levelbiashidpi="1.000" leveltilesize="500" width="2486" levelingroll="0" overlap="1" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2486" width="2486" preload="0" predecode="0"/>
+      <level height="1243" width="1243" preload="0" predecode="0"/>
+      <level height="621" width="621" preload="0" predecode="0"/>
+      <level height="310" width="310" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="192.062">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" heading="192.062" title="Heirloom Art Co." nodeid="node1" latitude="40.29888457" customnodeid="" tags="Desktop" description="" source="" info="" author="" datetime="10/22/22 1:07 PM" comment="" longitude="-111.65853471"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" width="180" textcolor="0x000000" background="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot title="Heirloom Art Co." skinid="ht_node" tilt="0" description="" pan="178.815" url="{node5}" id="Point01" target="$fwd" distance="5.95847"/>
+      <hotspot title="Heirloom Art Co." skinid="ht_node" tilt="-1.51" description="" pan="357.981" url="{node2}" id="Point02" target="$fwd" distance="9.07923"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" zoomafterinfov="90" type="crossdissolve" blendcolor="0x000000" zoomfov="20" softedge="0" zoomin="0"/>
+    <autorotate delay="5.00" noderandom="1" enabled="1" nodedelay="0.00" nodefilter="" useanimation="0" speed="0.050" startloaded="0" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" contextvr="1" simulatemass="1" dblclickfullscreen="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" sensitivity="8" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="2489" levelbiashidpi="1.000" leveltilesize="500" width="2489" levelingroll="0" overlap="1" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2489" width="2489" preload="0" predecode="0"/>
+      <level height="1244" width="1244" preload="0" predecode="0"/>
+      <level height="622" width="622" preload="0" predecode="0"/>
+      <level height="311" width="311" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="178.831">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" heading="178.831" title="Heirloom Art Co." nodeid="node2" latitude="40.29880479" customnodeid="" tags="Desktop" description="" source="" info="" author="" datetime="10/22/22 1:09 PM" comment="" longitude="-111.65855750"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" width="180" textcolor="0x000000" background="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot title="Heirloom Art Co." skinid="ht_node" tilt="-3.54" description="" pan="189.71" url="{node1}" id="Point01" target="$fwd" distance="9.07923"/>
+      <hotspot title="Heirloom Art Co." skinid="ht_node" tilt="-2.4" description="" pan="345.721" url="{node3}" id="Point02" target="$fwd" distance="12.4393"/>
+      <hotspot title="Cuckoo Clck" skinid="ht_image" tilt="13.05" description="" pan="-247.27" url="images/popup clock.png" id="Point03" target=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" roty="-8.000" tiltsize="10.000" level="1.000" tilt="5.300" stretch="1.000" mode="5" width="1280" rotz="0.000" ambientlevel="0.100" rotx="6.000" startmutedmobile="0" field="90.000" id="Element01" loop="1" pansize="10.000" fov="24.180" nodechangekeep="0" pan="-283.600" height="720" clickmode="2">
+        <source url="media/Anne of Green Gables Trailer.mp4"/>
+      </video>
+    </media>
+    <transition blendtime="1" enabled="1" zoomspeed="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" zoomafterinfov="90" type="crossdissolve" blendcolor="0x000000" zoomfov="20" softedge="0" zoomin="0"/>
+    <autorotate delay="5.00" noderandom="1" enabled="1" nodedelay="0.00" nodefilter="" useanimation="0" speed="0.050" startloaded="0" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" contextvr="1" simulatemass="1" dblclickfullscreen="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" sensitivity="8" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2493" levelbiashidpi="1.000" leveltilesize="500" width="2493" levelingroll="0" overlap="1" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level height="2493" width="2493" preload="0" predecode="0"/>
+      <level height="1246" width="1246" preload="0" predecode="0"/>
+      <level height="623" width="623" preload="0" predecode="0"/>
+      <level height="311" width="311" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="191.234">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360" fov="120"/>
+    </view>
+    <userdata copyright="" heading="191.234" title="Heirloom Art Co." nodeid="node3" latitude="40.29869330" customnodeid="" tags="Desktop" description="" source="" info="" author="" datetime="10/22/22 1:11 PM" comment="" longitude="-111.65856957"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" width="180" textcolor="0x000000" background="1" borderradius="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot title="Heirloom Art Co." skinid="ht_node" tilt="-3" description="" pan="168.904" url="{node2}" id="Point01" target="$fwd" distance="12.4393"/>
+      <hotspot title="Cottage Lamp" skinid="ht_image" tilt="21.24" description="" pan="-94.63" url="images/popup lamp.png" id="Point02" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" zoomspeed="2" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" zoomafterinfov="90" type="crossdissolve" blendcolor="0x000000" zoomfov="20" softedge="0" zoomin="0"/>
+    <autorotate delay="5.00" noderandom="1" enabled="1" nodedelay="0.00" nodefilter="" useanimation="0" speed="0.050" startloaded="0" returntohorizon="0.000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" contextvr="1" simulatemass="1" dblclickfullscreen="0" invertwheel="0" lockedmouse="0" speedwheel="1" rubberband="0" sensitivity="8" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" heading="0" title="" nodeid="master" latitude="" customnodeid="" tags="" description="" source="" info="" author="" datetime="" comment="" longitude=""/>
+  </masternode>
+</tour>
